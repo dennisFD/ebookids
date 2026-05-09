@@ -53,7 +53,7 @@ export default function App() {
             <div className="w-full h-[88vh] bg-white rounded-[35px] overflow-hidden shadow-2xl border-4 border-white relative">
 
               <iframe
-                src="/buku-anak.pdf#toolbar=0&navpanes=0&scrollbar=0&page=1&view=FitH"
+                src="/Beginning Sound.pdf#toolbar=0&navpanes=0&scrollbar=0&page=1&view=FitH"
                 className="w-full h-full bg-white"
                 title="PDF Buku Anak"
               />
