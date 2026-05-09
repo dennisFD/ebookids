@@ -1,13 +1,20 @@
 # Dunia Buku Anak
 
-## Jalankan Project
+## Install
 
 npm install
+
+## Jalankan
+
 npm run dev
+
+## Build
+
+npm run build
 
 ## Tambahkan PDF
 
-Masukkan file PDF Anda ke:
+Masukkan file PDF ke:
 
 public/buku-anak.pdf
 
