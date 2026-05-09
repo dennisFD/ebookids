@@ -65,7 +65,7 @@ export default function App() {
           <div className="flex-1 bg-gradient-to-br from-sky-100 to-pink-100 rounded-[35px] p-6 flex items-center justify-center relative overflow-hidden min-h-[750px]">
             <div className="w-full h-[700px] bg-white rounded-[35px] overflow-hidden shadow-2xl border-4 border-white">
               <iframe
-                src="/Begining Sound.pdf"
+                src="/Beginning Sound.pdf"
                 className="w-full h-full"
                 title="PDF Buku Anak"
               />
